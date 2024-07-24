@@ -1,0 +1,6 @@
+body{
+    background: conic-gradient(rgb(18, 240, 11),rgb(6, 202, 72),rgb(241, 25, 205),rgb(243, 142, 226)) ;
+    width: 1000px;
+    height: 1000px;
+    color: aliceblue;
+}
